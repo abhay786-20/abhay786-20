@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height = "35">, I'm ABHAY SHARMA</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height = "35">, I'm ABHAY SHARMA</h1>
 <h3 align="center">I'm a Developer, and a Competitive Programmer !!</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
